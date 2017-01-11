@@ -92,6 +92,7 @@
 		021189D51E25EEA5005ADB4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		021189D71E25EEA5005ADB4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		021189EA1E25F21E005ADB4E /* CoolView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoolView.swift; sourceTree = "<group>"; };
+		021189ED1E25FAA8005ADB4E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				021189AC1E25EC57005ADB4E /* README.md */,
+				021189ED1E25FAA8005ADB4E /* Package.swift */,
 			);
 			name = Metadata;
 			sourceTree = "<group>";
